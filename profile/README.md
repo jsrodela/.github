@@ -1,4 +1,4 @@
-# RoDeLa 7.0
+# 🚀 RoDeLa 7.0
 Robotics Design Laboratory / 잠신고등학교 공학전문동아리
 
 <details>
