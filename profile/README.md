@@ -8,7 +8,7 @@ Robotics Design Laboratory / 잠신고등학교 공학전문동아리
 <details>
 <summary>We are RoDeLa</summary>
 
-7.0: 송이현, 박서현, 김기혁, 이강민, 이도이, 이서정, 정원희, 하준봉, ~~양원섭~~
+7.0: [송이현](https://github.com/SYH08), [박서현](https://github.com/seohyun037), 김기혁, 이강민, [이도이](https://github.com/ywbird), [이서정](https://github.com/seojunggg), [정원희](https://github.com/wonniejung), 하준봉, ~~양원섭~~
 
 6.0: [정준우](https://github.com/cenoda), [홍채이](https://github.com/cherry2pick), [강이규](https://github.com/jajangmyeonjoa), [김정윤](https://github.com/Username-10905), [김현우](https://github.com/kimhyeonu), [윤지욱](https://github.com/grabic1060), [조윤재](https://github.com/nada123z), [김지원](https://github.com/kjiwon0115), [정예준](https://github.com/imgonnablast)
 
