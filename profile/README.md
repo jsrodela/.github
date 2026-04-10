@@ -1,4 +1,4 @@
-# 🚀 RoDeLa 8
+# 🚀 RoDeLa 9
 Robotics Design Laboratory / 잠신고등학교 공학전문동아리
 ```python
 👑 = [2019, 2021, 2022, 2023, 2025]
